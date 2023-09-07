@@ -10,6 +10,7 @@ Eu sou Edson Silva,  sou um programador front-end.
 <div>
   <a href"https://github.com/edysilvasz"</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edysilvasz&show_icons=true&theme=transparent"/>
+  <br>
   <img height= "165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edysilvasz&layout=compact&langs_count=16&theme=transparent"/>
   <br>
   
